@@ -1,4 +1,4 @@
-## Credits
+##### Credits
 
 - [DoNotTryAccessibility](https://github.com/Nitsuya/DoNotTryAccessibility) - settings and accessibility hiding code
 - [SettingsFirewall](https://github.com/canyie/SettingsFirewall) - settings replacement idea
